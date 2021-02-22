@@ -22,22 +22,19 @@ header{
     
     width: 20%;
     height: 100px;
-    background-color: tomato;
     background-image: url(../img/Universidad_Escudo.png);
+    
     background-size: contain;
     background-repeat: no-repeat;
+    background-position-x: center;
+    background-color: teal;
     float: left;
-    background-position: center;
-   
+    
     
    
 }
 
- 
-
-
-
-.titulo{
+ .titulo{
   
     width: 80%;
    float: left;
