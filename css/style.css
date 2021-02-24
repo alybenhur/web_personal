@@ -8,28 +8,43 @@
 main{
     width: 900px; /* ancho de main */
     margin: auto; /*magenes automaticos */
+    
+
 
 }
+
+.seccion1{
+   background-color: yellow;
+   height: 200px;
+   width: 20%;
+   float: left;
+}
+
+.seccion2{
+    background-color: rgb(21, 19, 126);
+    height: 200px;
+    width: 80%;
+    float: left;
+ }
 
 header{
     height: 100px;
     width: 900px;
     margin-top: 20px;
+   
     
 }
 
 .logo{
     
     width: 20%;
+    background-color: teal;
     height: 100px;
     background-image: url(../img/Universidad_Escudo.png);
-    
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: center;
-    background-color: teal;
     float: left;
-    
     
    
 }
@@ -37,6 +52,7 @@ header{
  .titulo{
   
     width: 80%;
+   
    float: left;
    line-height: 100px;
    text-align: center;
