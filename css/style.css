@@ -6,7 +6,7 @@
 
 
 main{
-    width: 900px; /* ancho de main */
+    width: 1200px; /* ancho de main */
     margin: auto; /*magenes automaticos */
     
 
@@ -15,21 +15,21 @@ main{
 
 .seccion1{
    background-color: yellow;
-   height: 200px;
+   height: 500px;
    width: 20%;
    float: left;
 }
 
 .seccion2{
     background-color: rgb(21, 19, 126);
-    height: 200px;
+    height: 500px;
     width: 80%;
     float: left;
  }
 
 header{
     height: 100px;
-    width: 900px;
+    width: 1200px;
     margin-top: 20px;
    
     
